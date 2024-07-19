@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uma</h1>
 <h3 align="center">A passionate developer trying to explore and find my niche.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently doing 2 fellowships: Break Through Tech AI and Headstarter AI. I will be adding my projects in both of these fellowships as I work on them!
 
 - 📫 How to reach me **uma.uppuloori@gmail.com**
 
